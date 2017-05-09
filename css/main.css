@@ -1,0 +1,359 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Lato|Source+Sans+Pro');
+
+body{
+	background:#ffffff;
+
+	font-weight:bold;
+	font-size:16px;
+	
+	color:#506a85;
+	-webkit-font-snoothing:antialiased;
+	-webkit-overflow-scrolling:touch;
+	
+	
+	
+	
+}
+
+#responsive-menu{
+	margin-top:15px;
+	margin-bottom:15px;
+	margin-left:230px;
+		font-family:"SourceSansPro" sans serif;
+	font-size:12px;
+	color:#506a85;
+	font-weight:bold;
+	
+}
+
+.navbar-header{
+	margin-top:15px;
+	margin-bottom:15px;
+}
+
+.nav .navbar {
+	margin-left:0;
+	
+}
+
+header{
+	padding-top:35px;
+	padding-bottom:35px;
+}
+
+.logo{
+	padding-left:0px;
+}
+
+a{
+	text-decoration:none;
+}
+
+a:hover{
+	text-decoration:none;
+}
+
+nav a{
+	display:block;
+	
+	font-size:12px;
+	padding-top:15px;
+}
+
+
+.list-inline li{
+	padding-right:0px;
+	padding-left:45px;
+	font-family:"SourceSansPro" sans serif;
+	font-size:13px;
+}
+
+.search{
+	padding-top:15px;
+}
+
+
+
+.carousel-control .glyphicon:hover{
+	background:#506a85;
+}
+
+.carousel-indicators{
+	background-color:#ffffff;
+	left:75%;
+	width:145px;
+	bottom:-23px;
+	padding-top:13px;
+	border-radius:3px;
+	
+}
+.carousel-indicators li{
+	background:#506a85;
+	width:15px;
+	height:15px;
+	border-radius:15px;
+	padding-top:10px;
+	
+	
+}
+
+.carousel-indicators  .active{
+	background:#00bc9c;
+	width:15px;
+	height:15px;
+	border-radius:15px;
+	padding-top:10px;
+	margin:1px;
+
+	
+}
+
+
+
+
+
+.s1h {
+	margin-top:0;
+	font-size: 78px;
+    font-family: "Lato";
+    color: rgb( 255, 255, 255 );
+	margin-bottom:10px;
+	
+	font-weight:bold;
+}
+.s1p {
+	margin-top:0;
+	font-size: 20px;
+    font-family: "Lato";
+    color: #a3b1bf;
+	margin-bottom:10px;
+	
+	font-weight:bold;
+}
+
+.middle-button{
+  font-size: 18px;
+  font-family: "SourceSansPro";
+  color: rgb( 255, 255, 255 );
+  font-weight: bold;
+  background:#17a78b;
+  border-radius:3px;
+  border:0;
+  padding:25px 70px;
+  margin-top:40px;
+  
+}
+
+.carousel-caption{
+	top:100px;
+}
+
+.s2h{
+	text-align:right;
+}
+.s2p{
+	text-align:right;
+}
+.s2b{
+	float:right;
+}
+
+.s3h{
+	text-align:left;
+}
+.s3p{
+	text-align:left;
+}
+.s3b{
+	float:left;
+}
+
+.s4h{
+	text-align:right;
+	background:#555;
+	margin-left:200px;
+}
+.s4p{
+	text-align:right;
+	margin-left:200px;
+}
+
+.s5h{
+	margin-top:-50px;
+}
+.s5p{
+	
+}
+.s5b{
+	
+}
+.center-block {
+	text-align:center;
+	margin-bottom:30px;
+	 font-weight: bold;
+}
+.who-we-are h3{
+	font-size:46px;
+	
+}
+.who-we-are-text{
+	font-size:20px;
+	 font-weight: 200;
+	   font-family: "Lato";
+}
+
+.who-we-are{
+	margin-top:50px
+}
+
+.icon{
+	font-size:50px;
+}
+
+.who-we-are-h4{
+	font-size:30px;
+	font-weight: bold;
+}
+
+.who-we-are-text2{
+	font-size:15px;
+	font-weight: 200;
+}
+
+
+.latest-works{
+	background:#f2f5f7;
+}
+
+.latest-work .row{
+	margin-top:50px;
+	
+}
+
+.latest-work2 h5 {
+	background:#ffffff;
+	margin:0px;
+	font-size:20px;
+	font-weight: bold;
+	text-align:center;
+	padding-top:20px;
+	padding-bottom:20px;
+	
+}
+
+
+.latest-work2 p{
+	
+	
+	padding-bottom:20px;
+	background:#ffffff;
+	margin-top:20px;
+	font-size:13px;
+	font-weight: 200;
+	text-align:center;
+	margin:0px;
+}
+
+.latest-work2{
+	padding-right:0px;
+	
+}
+
+.getinB{
+	text-align:center;
+}
+
+footer{
+	background:#2f4052;
+}
+
+footer h6{
+	color:#ffffff;
+	font-weight: bold;
+	margin-bottom:20px;
+	
+}
+
+footer p{
+	margin-top:20px;
+	font-size:13px;
+	color:#a3b1bf;
+	
+}
+
+
+.footerlw{
+	margin-top:5px;
+}
+
+footer .getintouchP{
+	margin:0;
+}
+
+footer p i {
+	margin:5px;
+	font-size:10px;
+}
+
+
+input[type="text"]{
+	outline:none;
+	padding-top:10px;
+	font-size:15px;
+}
+
+input, button{
+	background:transparent;
+	border:none;
+}
+
+
+form {
+	background:#4e5c6c;
+	border-radius:5px;
+	height:40px;
+}
+
+.scrabersButton{
+	    margin-top: -50px;
+		margin-left: 155px;
+		 font-size: 14px;
+  font-family: "SourceSansPro";
+  color: rgb( 255, 255, 255 );
+  font-weight: bold;
+  background:#17a78b;
+  border:0;
+}
+
+.footerending{
+	background:#283645;
+	margin:0;
+}
+
+.footerending p {
+	font-size:10px;
+	text-align:right;
+	margin-bottom:15px;
+	padding-bottom:15px;
+}
+
+.footerend{
+	margin-top:0;
+}
+
+.list-inlinefooter li{
+	padding-right:0px;
+		padding-left:5px;
+		padding-top:5px;
+	font-family:"SourceSansPro" sans serif;
+	font-size:5px;
+}
+
+.footerending nav a {
+	font-size:10px;
+	color:#a3b1bf;
+}
+
+.footerending nav a:hover{
+	color:#ffffff;
+}
